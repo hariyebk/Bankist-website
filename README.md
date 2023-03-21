@@ -1,19 +1,19 @@
 # Bankist Website
 
-This is a simple digital banking website that I built while taking a [Udemy Course](https://www.udemy.com/course/the-complete-javascript-course/). The website showcases the use of smooth scrolling, sticky navigation, slider testimonial, and tab components.
+This is a simple digital banking website that I built while taking a [Udemy Course](https://www.udemy.com/course/the-complete-javascript-course/). During this project I learned about DOM Traversing , Event Propagation and Delegation , The Intersection Observer API and Lifecycle of DOM Events
 
 <h1 align="center">
     <img src="demo.png"/>
 </h1>
 
 
-##⭐Features
+## ⭐Features
 - Smooth scrolling
 - Sticky navigation bar
 - Slider testimonial section with transition effects 
 - Tabbed component for banking operations
 
-##💎Technologies Used
+## 💎Technologies Used
 The following technologies were used to build this project:
 
 <p align="center">
@@ -22,7 +22,7 @@ The following technologies were used to build this project:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
 </p>
 
-##💡Getting Started
+## 💡Getting Started
 
 To view this project, simply access [this link](https://hariyebk.github.io/Bankist-website/). Alternatively, you can download or clone the repository from
 [GitHub](https://github.com/hariyebk/Bankist-website).
@@ -39,7 +39,7 @@ You do not need any additional software or dependencies installed to run this co
 2. Open `index.html` using your preferred web browser.
 3. That's it! enjoy browsing through the digital banking site!
 
-##✨Contributing 
+## ✨Contributing 
 
 Contributions are welcome and encouraged! To contribute please follow these steps:
 
